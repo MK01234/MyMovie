@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Movie</string>
+    <string name="name">Name</string>
+    <string name="detail">Detail</string>
+    <string name="info">Info</string>
+    <string name="watch">Watch</string>
+</resources>
